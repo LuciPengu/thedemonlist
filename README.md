@@ -1,8 +1,1 @@
-# Svelte + Vite
-
-This template should help get you started developing with Svelte in Vite.
-
-The entry point for the app can be found in /src/App.svelte.
-
-
-See svelte.dev to get started with Svelte!
+This app was made with lots of love by meeee :))) Feel free to use the code to make your own version of the webapp
